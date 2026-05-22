@@ -1,45 +1,52 @@
 <div align="center">
 
-# Hello, I'm Ashish Mishra 👋
-### Student Researcher & Cybersecurity Enthusiast | CSE @ MANIT Bhopal
+# ⚡ Ashish Mishra
+### Building the future of Security & AI | CSE @ MANIT Bhopal
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here-blue?style=for-the-badge&logo=google-chrome)](your-link-here)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
-
----
-
-### 🛠 Tech Stack
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&left_color=gray&right_color=blue)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
 
 ---
 
-### 🚀 Featured Projects
+### 🌐 My Digital Orbit
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400" />
 
-| Project | Description | Tech Used |
-| :--- | :--- | :--- |
-| **[Fixcode](https://github.com/yourrepo)** | Unified platform for bug-fixing & AI matchmaking. | MERN, AI/ML |
-| **[PixelVault](https://github.com/yourrepo)** | Secure storage & encryption research project. | Cybersecurity |
-| **[NetShield](https://github.com/yourrepo)** | Ethical Hacking & Web Security framework. | Web Security |
+*   **Cybersecurity Lead:** Managing the OWASP Consortium @ MANIT.
+*   **Competitive Programmer:** Codeforces/CodeChef enthusiast.
+*   **Full-Stack Architect:** Obsessed with clean, efficient MERN code.
+*   **Researcher:** Currently diving into AI/ML & Cyber Defense.
 
----
+<br>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+### 🛠 Tech Arsenal
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,react,nodejs,mongodb,express,linux,docker,git,vscode" />
 </p>
 
-</div>
+---
+
+### 🚀 Flagship Endeavors
+
+| Project | Core Tech | Status |
+| :--- | :--- | :--- |
+| **[Fixcode](https://github.com/yourrepo)** | MERN + AI | 🟢 Active |
+| **[PixelVault](https://github.com/yourrepo)** | Encryption | 🟡 Beta |
+| **[NetShield](https://github.com/yourrepo)** | Web Security | 🟢 Released |
 
 ---
 
-### ⚡ Current Focus
-*   **Competitive Programming:** Solving complex problems on Codeforces/CodeChef.
-*   **Research:** Deep diving into AI/ML and Cybersecurity at IIT Kanpur.
-*   **Community:** Leading the **CyberSecurity OWASP Consortium** at MANIT.
+### 🔥 Competitive Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&border_radius=5" />
+</p>
 
-📫 **Reach out:** [Your Email Address]
+---
+
+### 💡 My Philosophy
+> "Code is not just logic; it is the infrastructure of trust. I build systems that are secure by design and optimized for impact."
+
+---
+
+*(Last updated: May 2026)*
 </div>
