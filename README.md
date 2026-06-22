@@ -1,144 +1,54 @@
-```md
-<h1 align="center">Hi 👋, I'm Ashish Mishra</h1>
-<h3 align="center">Computer Science Undergraduate @ MANIT Bhopal</h3>
+<div align="center">
 
+# ⚡ Ashish Mishra
+### Building the future of Security & AI | CSE @ MANIT Bhopal
+
+[![GitHub followers](https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?style=social)](https://github.com/[YOUR_GITHUB_USERNAME])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN_HANDLE])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_TWITTER_HANDLE])
+
+---
+
+### 🌐 My Digital Orbit
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" />
+
+*   **Cybersecurity Lead:** Directing the OWASP Consortium at MANIT Bhopal.
+*   **Competitive Programmer:** Active participant on Codeforces, CodeChef, LeetCode, and AtCoder.
+*   **Full-Stack Architect:** Developing robust, scalable applications using the MERN stack.
+*   **Researcher:** Currently focused on the intersection of AI/ML and cyber defense.
+
+<br>
+
+### 🛠 Tech Arsenal
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,react,nodejs,mongodb,express,linux,docker,git,vscode,python,tensorflow" />
+</p>
+
+---
+
+### 🚀 Flagship Endeavors
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Fixcode](https://github.com/[YOUR_GITHUB_USERNAME]/Fixcode)** | Open-source bug-fixing & AI matchmaking platform. | MERN + AI |
+| **[NetShield](https://github.com/[YOUR_GITHUB_USERNAME]/NetShield)** | Ethical Hacking & Web Security Workshop. | WebSec |
+| **[PixelVault](https://github.com/[YOUR_GITHUB_USERNAME]/PixelVault)** | Advanced encryption-focused security project. | Security |
+
+---
+
+### 🔥 Competitive Streak
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&border_radius=5" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-🎓 B.Tech CSE Student at **MANIT Bhopal**
-
-💻 Passionate about **Software Development, Competitive Programming, and Cybersecurity**
-
-🌱 Currently learning **React, System Design, and Advanced DSA**
-
-⚡ Solving DSA problems daily and building real-world projects
-
-🎯 Goal: Secure a Software Engineering Internship and become a strong Full Stack Engineer
+### 💡 My Philosophy
+> "Code is not just logic; it is the infrastructure of trust. I build systems that are secure by design and optimized for impact."
 
 ---
 
-## 🛠️ Tech Stack
+*(Last updated: June 2026)*
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
-</p>
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
-</p>
-
----
-
-## 🏆 Competitive Programming
-
-- 🔥 Solved 500+ DSA Problems
-- ⚡ Strong in Binary Search, Sliding Window, Two Pointers, Trees & Graphs
-- 📈 Regularly participate in coding contests
-
-### Profiles
-
-- LeetCode: https://leetcode.com/YOUR_USERNAME
-- Codeforces: https://codeforces.com/profile/YOUR_USERNAME
-- CodeChef: https://www.codechef.com/users/YOUR_USERNAME
-
----
-
-## 🚀 Featured Projects
-
-### 🔧 FixCode
-AI-powered coding assistant platform focused on debugging and interview preparation.
-
-**Tech:** React, Node.js, Express, MongoDB
-
----
-
-### 🔐 PixelVault
-Secure image storage platform with authentication and encryption features.
-
-**Tech:** MERN Stack
-
----
-
-### 🛡️ NetShield
-Security-focused web application demonstrating common web vulnerabilities and defenses.
-
-**Tech:** JavaScript, Node.js
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Complete Striver's DSA Sheet
-- ✅ Solve 700+ Problems
-- ✅ Build Production-Level MERN Projects
-- ✅ Learn System Design
-- ✅ Secure a Software Engineering Internship
-
----
-
-## 📫 Connect With Me
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
-💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
-⚡ LeetCode: https://leetcode.com/YOUR_USERNAME
-
----
-
-<h3 align="center">
-💡 "Consistency beats intensity. One solved problem today is better than ten planned for tomorrow."
-</h3>
-```
+</div>
