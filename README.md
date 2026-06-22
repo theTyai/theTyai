@@ -3,15 +3,14 @@
 # ⚡ Ashish Mishra
 ### Building the future of Security & AI | CSE @ MANIT Bhopal
 
-[![GitHub followers](https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?style=social)](https://github.com/[YOUR_GITHUB_USERNAME])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN_HANDLE])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_TWITTER_HANDLE])
+[![GitHub followers](https://img.shields.io/github/followers/[theTyai]?style=social)](https://github.com/[YOUR_GITHUB_USERNAME])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theTyai)
 
 ---
 
 ### 🌐 My Digital Orbit
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=[theTyai]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" />
 
 *   **Cybersecurity Lead:** Directing the OWASP Consortium at MANIT Bhopal.
 *   **Competitive Programmer:** Active participant on Codeforces, CodeChef, LeetCode, and AtCoder.
