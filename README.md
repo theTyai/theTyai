@@ -1,16 +1,17 @@
 <div align="center">
 
-# ⚡ Ashish Mishra
+#Hi, I'm Ashish Mishra
 ### Building the future of Security & AI | CSE @ MANIT Bhopal
 
-[![GitHub followers](https://img.shields.io/github/followers/[theTyai]?style=social)](https://github.com/[YOUR_GITHUB_USERNAME])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theTyai)
+[![GitHub followers](https://img.shields.io/github/followers/theTyai?style=social)](https://github.com/theTyai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN_HANDLE])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_TWITTER_HANDLE])
 
 ---
 
 ### 🌐 My Digital Orbit
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=[theTyai]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=theTyai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" />
 
 *   **Cybersecurity Lead:** Directing the OWASP Consortium at MANIT Bhopal.
 *   **Competitive Programmer:** Active participant on Codeforces, CodeChef, LeetCode, and AtCoder.
@@ -30,15 +31,15 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Fixcode](https://github.com/[YOUR_GITHUB_USERNAME]/Fixcode)** | Open-source bug-fixing & AI matchmaking platform. | MERN + AI |
-| **[NetShield](https://github.com/[YOUR_GITHUB_USERNAME]/NetShield)** | Ethical Hacking & Web Security Workshop. | WebSec |
-| **[PixelVault](https://github.com/[YOUR_GITHUB_USERNAME]/PixelVault)** | Advanced encryption-focused security project. | Security |
+| **[Fixcode](https://github.com/theTyai/Fixcode)** | Open-source bug-fixing & AI matchmaking platform. | MERN + AI |
+| **[NetShield](https://github.com/theTyai/NetShield)** | Ethical Hacking & Web Security Workshop. | WebSec |
+| **[PixelVault](https://github.com/theTyai/PixelVault)** | Advanced encryption-focused security project. | Security |
 
 ---
 
 ### 🔥 Competitive Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&border_radius=5" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=theTyai&theme=tokyonight&hide_border=true&border_radius=5" />
 </p>
 
 ---
